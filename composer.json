@@ -1,0 +1,14 @@
+{
+    "name": "julio/inter_heranca",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Júlio Neves"
+        }
+    ],
+    "require": {}
+}
